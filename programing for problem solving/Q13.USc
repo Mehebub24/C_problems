@@ -1,0 +1,11 @@
+/*Write a c program to disaplay the bleow pattern
+*
+**
+***
+****
+*****
+*/
+#include<stdio.c>
+int main(){
+
+}
